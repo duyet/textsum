@@ -1,5 +1,5 @@
 flask
 spacy==3.4.0
-networkx==2.8.4
+networkx==2.8.5
 datasketch==1.5.7
 statistics==1.0.3.5
